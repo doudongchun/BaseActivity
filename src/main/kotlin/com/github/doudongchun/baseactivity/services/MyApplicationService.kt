@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.doudongchun.baseactivity.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.doudongchun.baseactivity.MyBundle
 
 class MyApplicationService {
 
